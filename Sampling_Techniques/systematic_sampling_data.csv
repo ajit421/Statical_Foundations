@@ -1,0 +1,101 @@
+,ID,Age,Gender,Income,Education,Region
+0,1,62,Other,96138,Masters,East
+10,11,39,Male,25241,Masters,West
+20,21,56,Other,121272,PhD,South
+30,31,27,Female,58115,High School,East
+40,41,53,Female,147482,Bachelors,North
+50,51,19,Other,137675,Masters,East
+60,61,68,Male,63042,Masters,North
+70,71,58,Other,140785,PhD,East
+80,81,19,Male,55569,Bachelors,East
+90,91,36,Male,141332,PhD,South
+100,101,29,Female,100387,High School,West
+110,111,58,Male,62203,Bachelors,North
+120,121,39,Other,96693,High School,South
+130,131,18,Female,75483,Masters,South
+140,141,31,Female,107865,PhD,West
+150,151,41,Male,56472,Bachelors,South
+160,161,64,Male,53281,Bachelors,East
+170,171,54,Other,37610,High School,West
+180,181,72,Female,140027,PhD,South
+190,191,31,Female,81226,PhD,East
+200,201,66,Other,126694,Bachelors,North
+210,211,21,Female,133161,Masters,East
+220,221,40,Female,51979,Masters,North
+230,231,64,Other,92528,Masters,North
+240,241,58,Female,64826,Bachelors,North
+250,251,25,Female,73310,Masters,West
+260,261,56,Other,97555,Bachelors,South
+270,271,42,Other,116627,Bachelors,West
+280,281,79,Male,138600,PhD,West
+290,291,61,Female,37194,Bachelors,East
+300,301,41,Male,46563,PhD,East
+310,311,27,Male,29515,PhD,North
+320,321,49,Female,68611,Bachelors,West
+330,331,62,Other,55351,PhD,West
+340,341,52,Female,146887,Bachelors,North
+350,351,74,Other,143130,PhD,North
+360,361,53,Male,116298,Bachelors,West
+370,371,79,Male,54169,PhD,North
+380,381,45,Male,108508,Bachelors,West
+390,391,36,Other,66765,Bachelors,East
+400,401,43,Male,45606,Bachelors,East
+410,411,18,Female,68761,High School,East
+420,421,26,Other,39718,Masters,South
+430,431,25,Other,148821,Masters,East
+440,441,46,Male,29733,PhD,West
+450,451,22,Other,55436,High School,North
+460,461,18,Male,112787,High School,North
+470,471,44,Male,94980,High School,West
+480,481,71,Female,96673,Masters,North
+490,491,36,Female,120978,High School,East
+500,501,34,Female,110884,Bachelors,North
+510,511,75,Male,130309,High School,East
+520,521,40,Male,62139,High School,West
+530,531,43,Male,138585,PhD,North
+540,541,54,Male,144885,Masters,North
+550,551,75,Male,120431,Masters,South
+560,561,72,Male,73029,Masters,West
+570,571,35,Female,82493,PhD,South
+580,581,34,Female,28025,PhD,South
+590,591,38,Other,24564,High School,South
+600,601,67,Male,117903,PhD,East
+610,611,67,Male,144615,Masters,North
+620,621,52,Other,43157,PhD,West
+630,631,63,Female,93180,Bachelors,East
+640,641,72,Male,41693,High School,East
+650,651,25,Female,126951,Bachelors,East
+660,661,25,Male,107801,Bachelors,North
+670,671,56,Other,129352,PhD,West
+680,681,32,Female,80946,Bachelors,South
+690,691,59,Male,148269,Bachelors,South
+700,701,75,Female,95501,PhD,West
+710,711,63,Other,59132,High School,West
+720,721,30,Female,37756,High School,South
+730,731,65,Female,95802,Masters,East
+740,741,63,Other,110045,Bachelors,South
+750,751,46,Male,39506,Masters,South
+760,761,54,Female,130651,Masters,East
+770,771,50,Female,41151,PhD,South
+780,781,45,Male,65607,PhD,South
+790,791,78,Female,75280,PhD,South
+800,801,69,Other,133033,Masters,North
+810,811,27,Male,52869,High School,North
+820,821,69,Male,33595,Masters,South
+830,831,64,Other,149689,Masters,South
+840,841,72,Other,103702,Bachelors,West
+850,851,28,Other,61741,Bachelors,South
+860,861,76,Other,27696,PhD,East
+870,871,76,Female,23962,Bachelors,South
+880,881,71,Other,83071,High School,East
+890,891,64,Female,54431,Bachelors,North
+900,901,61,Other,125900,Bachelors,West
+910,911,25,Female,133778,Masters,South
+920,921,69,Male,107621,Masters,East
+930,931,60,Female,60102,Masters,West
+940,941,70,Male,137815,Masters,North
+950,951,78,Male,121159,PhD,North
+960,961,55,Female,34823,Bachelors,South
+970,971,36,Other,108570,Bachelors,South
+980,981,77,Female,123554,Bachelors,North
+990,991,28,Female,139725,Masters,North
